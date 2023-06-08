@@ -1,0 +1,3 @@
+class AppSingletons {
+  AppSingletons._();
+}
